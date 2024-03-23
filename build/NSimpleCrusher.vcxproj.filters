@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\ndsil\Developer\Labs\VST3\NSimpleCrusher\source\NSimpleCrusherprocessor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ndsil\Developer\Labs\VST3\NSimpleCrusher\source\NSimpleCrushercontroller.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ndsil\Developer\Labs\VST3\NSimpleCrusher\source\NSimpleCrusherentry.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Program Files\VST_SDK\vst3sdk\public.sdk\source\main\dllmain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\ndsil\Developer\Labs\VST3\NSimpleCrusher\source\version.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ndsil\Developer\Labs\VST3\NSimpleCrusher\source\NSimpleCrushercids.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ndsil\Developer\Labs\VST3\NSimpleCrusher\source\NSimpleCrusherprocessor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ndsil\Developer\Labs\VST3\NSimpleCrusher\source\NSimpleCrushercontroller.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\ndsil\Developer\Labs\VST3\NSimpleCrusher\resource\7BC0FB63A6BB5AEA85F013219101B41E_snapshot.png">
+      <Filter>Resources</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ndsil\Developer\Labs\VST3\NSimpleCrusher\resource\7BC0FB63A6BB5AEA85F013219101B41E_snapshot_2.0x.png">
+      <Filter>Resources</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ndsil\Developer\Labs\VST3\NSimpleCrusher\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\Users\ndsil\Developer\Labs\VST3\NSimpleCrusher\resource\win32resource.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{16C713EE-718F-3402-8EC4-0542D051273E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources">
+      <UniqueIdentifier>{07D57BC4-10FE-3848-BD1C-5BA8F0EB631B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{1887C8C2-84FA-3011-AE94-EEF7BC865302}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
